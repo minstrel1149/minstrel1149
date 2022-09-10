@@ -15,6 +15,10 @@
 - 아주 아주 간단한 프로젝트 저장소가 있습니다. 일정 부분 내용을 추가하여 새로운 프로젝트로 업데이트 될 수 있습니다.
 - 연습장(exercise book) 저장소가 있습니다. 새로운 책에 대한 연습 코드들, 혹은 코딩과는 관계 없는 공부 내용이 포함됩니다.
 
+### 임시(곧 이동 예정)
+- 경영학과 인적자원관리 파트 복습 → 환경 및 전략적 인적자원관리 등
+- 직무관리 파트 복습 → 현대적 직무설계 및 직무특성이론 등
+
 <!---
 minstrel1149/minstrel1149 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
