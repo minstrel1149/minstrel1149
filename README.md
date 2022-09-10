@@ -20,7 +20,7 @@
 - 직무관리 파트 복습 → 현대적 직무설계 및 직무특성이론 등
 - 확보관리 파트 복습 → 내부 공급의 세부사항 및 선발도구 판단 등
 - 개발관리 파트 복습 → 경력개발 및 전환배치와 승진 등
-- 평가관리/보상관리 파트 복습(~ing)
+- 평가관리/보상관리 파트 복습 → 조직 유효성 관점(타신수실) 평가 및 임금수준과 체계 등
 
 <!---
 minstrel1149/minstrel1149 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
