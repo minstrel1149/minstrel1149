@@ -21,6 +21,8 @@
 - 확보관리 파트 복습 → 내부 공급의 세부사항 및 선발도구 판단 등
 - 개발관리 파트 복습 → 경력개발 및 전환배치와 승진 등
 - 평가관리/보상관리 파트 복습 → 조직 유효성 관점(타신수실) 평가 및 임금수준과 체계 등
+- 유지관리/방출관리 파트 복습 → 동기부여 프로그램 및 자발적 이직의 관리 등
+- 기타 인적자원관리 관련 복습 → 국제인적자원관리 및 비정규직 인적자원관리 등
 
 <!---
 minstrel1149/minstrel1149 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
