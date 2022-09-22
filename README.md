@@ -14,6 +14,7 @@
 - 책에 대한 학습을 각 잡고 진행하는 저장소가 있습니다. 책의 코드를 나만의 스타일로 따라하며 필요한 주석을 적습니다.
 - 아주 아주 간단한 프로젝트 저장소가 있습니다. 일정 부분 내용을 추가하여 새로운 프로젝트로 업데이트 될 수 있습니다.
 - 연습장(exercise book) 저장소가 있습니다. 새로운 책에 대한 연습 코드들, 혹은 코딩과는 관계 없는 공부 내용이 포함됩니다.
+- Warning) 학습 시간 단위의 커밋이라 커밋 메시지의 네이밍 컨벤션이 문제가 많습니다 ㅠㅠ
 
 <!---
 minstrel1149/minstrel1149 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
