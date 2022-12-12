@@ -7,7 +7,8 @@
 - 기본적인 Python 문법을 활용하여 다양한 모듈과 라이브러리로 확장하려고 합니다.
 - 간단한 데이터 분석에 관심이 있어 Pandas, Matplotlib, Seaborn 등을 활용합니다.
 - 업무 자동화를 추구하고자 Selenium, BeautifulSoup, Pyautogui, Openpyxl, Gspread 등을 조금씩 학습합니다.
-- 향후에는 기초적인 머신러닝은 구현하고 싶어 ScikitLearn까지 나아가고자 합니다. 제발 그렇게 되길!
+- 향후에는 기초적인 머신러닝은 구현하고 싶어 ScikitLearn 및 Pytorch까지 나아가고자 합니다. 제발 그렇게 되길!
+  - ScikitLearn을 조금 공부해보니 기초도 쉽지 않다고 느낍니다. 선형대수학과 통계학을 추가로 공부하고자 합니다.
 - 직접 활용하는 것 외에도 IT 생태계에도 관심이 많습니다. HR 담당자 중 IT 지식 상위 1%가 되는 것이 목표입니다.
 
 ### Repositories
