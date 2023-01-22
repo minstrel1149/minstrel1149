@@ -27,7 +27,9 @@
 4. Chapter 7. 적분의 응용 복습
 5. Section 8.1 - 수열
 6. Section 8.2 - 급수
-7. 
+7. Section 8.3 - 적분 판정법과 비교 판정법
+8. Section 8.4 - 다른 수렴 판정법들
+9. 
 
 <!---
 minstrel1149/minstrel1149 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
