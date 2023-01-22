@@ -29,7 +29,9 @@
 6. Section 8.2 - 급수
 7. Section 8.3 - 적분 판정법과 비교 판정법
 8. Section 8.4 - 다른 수렴 판정법들
-9. 
+9. Section 8.5 - 거듭제곱급수
+10. Section 8.6 - 함수를 거듭제곱급수로 표현하기
+11. 
 
 <!---
 minstrel1149/minstrel1149 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
