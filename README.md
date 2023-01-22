@@ -21,7 +21,10 @@
 1. Section 7.2 - 부피
 
 ### 2023년 1월 22일(임시)
-1. Section 7.3 - 원통껍질에 
+1. Section 7.3 - 원통껍질에 의한 부피
+2. Section 7.4 - 호의 길이
+3. Section 7.5 - 회전체의 곡면 넓이
+4. 
 
 <!---
 minstrel1149/minstrel1149 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
