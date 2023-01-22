@@ -18,7 +18,10 @@
 - Warning) 학습 시간 단위의 커밋이라 커밋 메시지의 네이밍 컨벤션이 문제가 많습니다 ㅠㅠ
 
 ### 2023년 1월 21일(임시)
-1. Section 7.2 - 
+1. Section 7.2 - 부피
+
+### 2023년 1월 22일(임시)
+1. Section 7.3 - 원통껍질에 
 
 <!---
 minstrel1149/minstrel1149 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
