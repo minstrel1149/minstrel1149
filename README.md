@@ -25,7 +25,8 @@
 2. Section 7.4 - 호의 길이
 3. Section 7.5 - 회전체의 곡면 넓이
 4. Chapter 7. 적분의 응용 복습
-5. 
+5. Section 8.1 - 수열
+6. 
 
 <!---
 minstrel1149/minstrel1149 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
