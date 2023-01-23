@@ -34,7 +34,8 @@
 
 ### 2023년 1월 23일(임시)
 1. Section 8.7 - 테일러 급수와 매클로린 급수
-2. 
+2. Section 8.8 - 테일러 다항식의 응용
+3. 
 
 <!---
 minstrel1149/minstrel1149 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
