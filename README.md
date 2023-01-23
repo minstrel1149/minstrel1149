@@ -31,7 +31,10 @@
 8. Section 8.4 - 다른 수렴 판정법들
 9. Section 8.5 - 거듭제곱급수
 10. Section 8.6 - 함수를 거듭제곱급수로 표현하기
-11. 
+
+### 2023년 1월 23일(임시)
+1. Section 8.7 - 테일러 급수와 매클로린 급수(~ing)
+2. 
 
 <!---
 minstrel1149/minstrel1149 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
