@@ -1,14 +1,13 @@
 ### Hi There!
-- 코딩에 관심이 있는 코딩알못 HR 담당자입니다!
+- 데이터 분석과 업무 자동화에 관심이 있는 코딩알못 HR 담당자입니다!
 - 플랜트 대기업을 거쳐 현재 에듀테크 스타트업에서 일하고 있습니다 :)
 
 ### Interest
-- Python 언어에 관심이 있습니다. 현재는 초보답게 조건문, 순환문의 활용이 많으며, List Comprehension을 남용합니다.
-- 기본적인 Python 문법을 활용하여 다양한 모듈과 라이브러리로 확장하려고 합니다.
-- 간단한 데이터 분석에 관심이 있어 Pandas, Matplotlib, Seaborn 등을 활용합니다.
+- Python 언어에 관심이 있습니다. 기본적인 Python 문법을 활용하여 다양한 모듈과 라이브러리로 확장하려고 합니다.
+- DataFrame에 대한 조작 및 시각화를 위해 Pandas, Numpy, Matplotlib, Seaborn 등을 활용합니다.
 - 업무 자동화를 추구하고자 Selenium, BeautifulSoup, Pyautogui, Openpyxl, Gspread 등을 조금씩 학습합니다.
-- 향후에는 기초적인 머신러닝은 구현하고 싶어 ScikitLearn 및 Pytorch까지 나아가고자 합니다. 제발 그렇게 되길!
-  - ScikitLearn을 조금 공부해보니 기초도 쉽지 않다고 느낍니다. 기초 선형대수학과 심화 통계학을 추가로 공부하고자 합니다.
+- 기초적인 머신러닝은 구현할 수 있도록 ScikitLearn을 다루는 데 익숙해지고자 합니다. 추후 PyTorch도 경험할 예정입니다.
+- 현재는 Linear Algebra 및 Calculus 등 수학을 공부하고 있습니다. 이후 수리통계학을 바탕으로 심화통계학을 공부하려 합니다.
 - 직접 활용하는 것 외에도 IT 생태계에도 관심이 많습니다. HR 담당자 중 IT 지식 상위 1%가 되는 것이 목표입니다.
 
 ### Repositories
