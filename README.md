@@ -17,25 +17,6 @@
 - 연습장(exercise book) 저장소가 있습니다. 새로운 책에 대한 연습 코드들, 혹은 코딩과는 관계 없는 공부 내용이 포함됩니다.
 - Warning) 학습 시간 단위의 커밋이라 커밋 메시지의 네이밍 컨벤션이 문제가 많습니다 ㅠㅠ
 
-### 2023년 1월 21일(임시)
-1. Section 7.2 - 부피
-
-### 2023년 1월 22일(임시)
-1. Section 7.3 - 원통껍질에 의한 부피
-2. Section 7.4 - 호의 길이
-3. Section 7.5 - 회전체의 곡면 넓이
-4. Chapter 7. 적분의 응용 복습
-5. Section 8.1 - 수열
-6. Section 8.2 - 급수
-7. Section 8.3 - 적분 판정법과 비교 판정법
-8. Section 8.4 - 다른 수렴 판정법들
-9. Section 8.5 - 거듭제곱급수
-10. Section 8.6 - 함수를 거듭제곱급수로 표현하기
-
-### 2023년 1월 23일(임시)
-1. Section 8.7 - 테일러 급수와 매클로린 급수
-2. Section 8.8 - 테일러 다항식의 응용
-3. 
 
 <!---
 minstrel1149/minstrel1149 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
