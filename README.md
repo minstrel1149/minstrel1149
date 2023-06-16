@@ -6,8 +6,9 @@
 - Python 언어에 관심이 있습니다. 기본적인 Python 문법을 활용하여 다양한 모듈과 라이브러리로 확장하려고 합니다.
 - DataFrame에 대한 조작 및 시각화를 위해 Pandas, Numpy, Matplotlib, Seaborn 등을 활용합니다.
 - 업무 자동화를 추구하고자 Selenium, BeautifulSoup, Pyautogui, Openpyxl, Gspread 등을 조금씩 학습합니다.
-- 기초적인 머신러닝은 구현할 수 있도록 ScikitLearn을 다루는 데 익숙해지고자 합니다. 추후 PyTorch도 경험할 예정입니다.
-- 현재는 Linear Algebra 및 Calculus 등 수학을 공부하고 있습니다. 이후 수리통계학을 바탕으로 심화통계학을 공부하려 합니다.
+- 기초적인 머신러닝, 딥러닝은 구현할 수 있도록 ScikitLearn과 PyTorch를 꾸준히 다뤄보고자합니다.
+- Linear Algebra 및 Calculus 등 수학을 도구로 쓸 수 있는 수준으로 올라가려고 합니다.
+- 현재는 수리통계학을 바탕으로 계산통계학으로 발전시켜나가려고 합니다.
 - 직접 활용하는 것 외에도 IT 생태계에도 관심이 많습니다. HR 담당자 중 IT 지식 상위 1%가 되는 것이 목표입니다.
 
 ### Repositories
