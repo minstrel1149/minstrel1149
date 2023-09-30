@@ -20,7 +20,7 @@
 ## 임시
 ### 2023년 9월 26일~
 - 아이엘츠10 리딩 TEST1, TEST2, TEST3, TEST4
-- 아이엘츠11 리딩 TEST1, TEST2, TEST3, TEST4(~ing3)
+- 아이엘츠11 리딩 TEST1, TEST2, TEST3, TEST4
 
 
 <!---
