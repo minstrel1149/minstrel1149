@@ -18,6 +18,10 @@
 - Warning) 학습 시간 단위의 커밋이라 커밋 메시지의 네이밍 컨벤션이 문제가 많습니다 ㅠㅠ
 
 
+임시
+- TMLA Part2 Chapter.1 (~ing)
+
+
 <!---
 minstrel1149/minstrel1149 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
