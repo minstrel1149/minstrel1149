@@ -19,7 +19,7 @@
 
 
 임시
-- TMLA Part2 Chapter.1, Chapter.2(~ing3)
+- TMLA Part2 Chapter.1, Chapter.2(~ing4)
 
 
 <!---
