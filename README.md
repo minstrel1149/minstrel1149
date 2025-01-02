@@ -26,6 +26,7 @@
 -   3.5 Multivariate Distributions
 -   3.6 Marginal Distributions
 -   3.7 Conditional Distributions
+-   3.8 The Theory in Practice
 
 
 <!---
