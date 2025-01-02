@@ -17,6 +17,11 @@
 - 연습장(exercise book) 저장소가 있습니다. 새로운 책에 대한 연습 코드들, 혹은 코딩과는 관계 없는 공부 내용이 포함됩니다.
 - Warning) 학습 시간 단위의 커밋이라 커밋 메시지의 네이밍 컨벤션이 문제가 많습니다 ㅠㅠ
 
+### 임시
+- Chapter.3 Probability Distributions and Probability Densities
+-   3.1 Random Variables
+-   3.2 Probability Distributions
+
 
 <!---
 minstrel1149/minstrel1149 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
