@@ -23,6 +23,8 @@
 -   3.2 Probability Distributions
 -   3.3 Continuous Random Variables
 -   3.4 Probability Density Functions
+-   3.5 Multivariate Distributions
+-   3.6 Marginal Distributions
 
 
 <!---
