@@ -25,6 +25,7 @@
 -   3.4 Probability Density Functions
 -   3.5 Multivariate Distributions
 -   3.6 Marginal Distributions
+-   3.7 Conditional Distributions
 
 
 <!---
