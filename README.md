@@ -28,6 +28,11 @@
 -   3.7 Conditional Distributions
 -   3.8 The Theory in Practice
 
+### 임시(25/01/03)
+- Chapter.4 Mathematical Expectation
+-   4.1 Introduction
+-   4.2 The Expected Value of a Random Variable
+
 
 <!---
 minstrel1149/minstrel1149 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
