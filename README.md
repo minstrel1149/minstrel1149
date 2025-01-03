@@ -39,6 +39,11 @@
 -   4.7 Moments of Linear Combinations of Random Variables
 -   4.8 Conditional Expectations
 -   4.9 The Theory in Practice
+- Chapter.5 Special Probability Distributions
+-   5.1 Introduction
+-   5.2 The Discrete Uniform Distribution
+-   5.3 The Bernoulli Distribution
+-   5.4 The Binomial Distribution
 
 
 <!---
