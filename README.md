@@ -48,6 +48,8 @@
 -   5.6 The Hypergeometric Distribution
 -   5.7 The Poisson Distribution
 -   5.8 The Multinomial Distribution
+-   5.9 The Multivariate Hypergeometric Distribution
+-   5.10 The Theory in Practice
 
 
 <!---
