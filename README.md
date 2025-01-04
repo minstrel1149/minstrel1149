@@ -51,6 +51,13 @@
 -   5.9 The Multivariate Hypergeometric Distribution
 -   5.10 The Theory in Practice
 
+### 임시(25/01/04)
+- Chapter.6 Special Probability Densities
+-   6.1 Introduction
+-   6.2 The Uniform Distribution
+-   6.3 The Gamma, Exponential, and Chi-Square Distributions
+-   6.4 The Beta Distribution
+
 
 <!---
 minstrel1149/minstrel1149 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
