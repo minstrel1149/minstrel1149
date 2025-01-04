@@ -57,6 +57,8 @@
 -   6.2 The Uniform Distribution
 -   6.3 The Gamma, Exponential, and Chi-Square Distributions
 -   6.4 The Beta Distribution
+-   6.5 The Normal Distribution
+-   6.6 The Normal Approximation to the Binomial Distribution
 
 
 <!---
