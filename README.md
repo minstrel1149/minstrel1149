@@ -66,6 +66,8 @@
 -   7.2 Distribution Function Technique
 -   7.3 Transformation Technique: One Variable
 -   7.4 Transformation Technique: Several Variables
+-   7.5 Moment-Generating Function Technique
+-   7.6 The Theory in Application
 
 
 <!---
