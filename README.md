@@ -69,6 +69,12 @@
 -   7.5 Moment-Generating Function Technique
 -   7.6 The Theory in Application
 
+### 임시(25/01/05)
+- Chapter.8 Sampling Distributions
+-   8.1 Introduction
+-   8.2 The Sampling Distribution of the Mean
+-   8.3 The Sampling Distribution of the Mean: Finite Populations
+
 
 <!---
 minstrel1149/minstrel1149 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
