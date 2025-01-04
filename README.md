@@ -65,6 +65,7 @@
 -   7.1 Introduction
 -   7.2 Distribution Function Technique
 -   7.3 Transformation Technique: One Variable
+-   7.4 Transformation Technique: Several Variables
 
 
 <!---
