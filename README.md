@@ -59,6 +59,8 @@
 -   6.4 The Beta Distribution
 -   6.5 The Normal Distribution
 -   6.6 The Normal Approximation to the Binomial Distribution
+-   6.7 The Bivariate Normal Distribution
+-   6.8 The Theory in Practice
 
 
 <!---
