@@ -88,6 +88,12 @@
 -   9.6 The Bayes Criterion
 -   9.7 The Theory in Practice
 
+### 임시(25/01/06)
+- Chapter.10 Point Estimation
+-   10.1 Introduction
+-   10.2 Unbiased Estimators
+-   10.3 Efficiency
+
 
 <!---
 minstrel1149/minstrel1149 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
