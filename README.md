@@ -85,6 +85,8 @@
 -   9.3 Statistical Games
 -   9.4 Decision Criteria
 -   9.5 The Minimax Criterion
+-   9.6 The Bayes Criterion
+-   9.7 The Theory in Practice
 
 
 <!---
