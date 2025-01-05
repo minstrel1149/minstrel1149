@@ -79,6 +79,9 @@
 -   8.6 The F Distribution
 -   8.7 Order Statistics
 -   8.8 The Theory in Practice
+- Chapter.9 Decision Theory
+-   9.1 Introduction
+-   9.2 The Theory of Games
 
 
 <!---
