@@ -93,6 +93,10 @@
 -   10.1 Introduction
 -   10.2 Unbiased Estimators
 -   10.3 Efficiency
+-   10.4 Consistency
+-   10.5 Sufficiency
+-   10.6 Robustness
+-   10.7 The Method of Moments
 
 
 <!---
