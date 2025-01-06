@@ -98,6 +98,8 @@
 -   10.6 Robustness
 -   10.7 The Method of Moments
 -   10.8 The Method of Maximum Likelihood
+-   10.9 Bayesian Estimation
+-   10.10 The Theory in Practice
 
 
 <!---
