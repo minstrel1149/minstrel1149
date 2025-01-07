@@ -103,14 +103,19 @@
 
 ### 임시(25/01/07)
 - Chapter.11 Interval Estimation
--   10.1 Introduction
--   10.2 The Estimation of Means
--   10.3 The Estimation of Diffences between Means
--   10.4 The Estimation of Proportions
--   10.5 The Estimation of Differences between Proportions
--   10.6 The Estimation of Variances
--   10.7 The Estimation of the Ratio of Two Variances
--   10.8 The Theory in Practice
+-   11.1 Introduction
+-   11.2 The Estimation of Means
+-   11.3 The Estimation of Diffences between Means
+-   11.4 The Estimation of Proportions
+-   11.5 The Estimation of Differences between Proportions
+-   11.6 The Estimation of Variances
+-   11.7 The Estimation of the Ratio of Two Variances
+-   11.8 The Theory in Practice
+- Chapter.12 Hypothesis Testing
+-   12.1 Introduction
+-   12.2 Testing a Statistical Hypothesis
+-   12.3 Losses and Risks
+-   12.4 The Neyman-Pearson Lemma
 
 
 <!---
