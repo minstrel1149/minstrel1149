@@ -106,6 +106,11 @@
 -   10.1 Introduction
 -   10.2 The Estimation of Means
 -   10.3 The Estimation of Diffences between Means
+-   10.4 The Estimation of Proportions
+-   10.5 The Estimation of Differences between Proportions
+-   10.6 The Estimation of Variances
+-   10.7 The Estimation of the Ratio of Two Variances
+-   10.8 The Theory in Practice
 
 
 <!---
