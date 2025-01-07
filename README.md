@@ -101,6 +101,12 @@
 -   10.9 Bayesian Estimation
 -   10.10 The Theory in Practice
 
+### 임시(25/01/07)
+- Chapter.11 Interval Estimation
+-   10.1 Introduction
+-   10.2 The Estimation of Means
+-   10.3 The Estimation of Diffences between Means
+
 
 <!---
 minstrel1149/minstrel1149 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
