@@ -123,6 +123,8 @@
 ### 임시(25/01/08)
 - Chapter.13 Tests of Hypothesis Involving Means, Variances and Proportions
 -   13.1 Introduction
+-   13.2 Test Concerning Means
+-   13.3 Tests Concerning Differences between Means
 
 
 <!---
