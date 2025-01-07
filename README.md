@@ -120,6 +120,10 @@
 -   12.6 Likelihood Ratio Tests
 -   12.7 The Theory in Practice
 
+### 임시(25/01/08)
+- Chapter.13 Tests of Hypothesis Involving Means, Variances and Proportions
+-   13.1 Introduction
+
 
 <!---
 minstrel1149/minstrel1149 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
