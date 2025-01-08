@@ -137,6 +137,7 @@
 -   14.1 Introduction
 -   14.2 Linear Regression
 -   14.3 The Method of Least Squares
+-   14.4 Normal Regression Analysis
 
 
 <!---
