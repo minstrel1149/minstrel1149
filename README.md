@@ -128,6 +128,9 @@
 -   13.4 Tests Concerning Variances
 -   13.5 Tests Concerning Proportions
 -   13.6 Tests Concerning Differences Among k Proportions
+-   13.7 The Analysis of an r x c Table
+-   13.8 Goodness of Fit
+-   13.9 The Theory in Practice
 
 
 <!---
