@@ -138,6 +138,7 @@
 -   14.2 Linear Regression
 -   14.3 The Method of Least Squares
 -   14.4 Normal Regression Analysis
+-   14.5 Normal Correlation Analysis
 
 
 <!---
