@@ -132,6 +132,12 @@
 -   13.8 Goodness of Fit
 -   13.9 The Theory in Practice
 
+### 임시(25/01/09)
+- Chapter.14 Regression and Correlation
+-   14.1 Introduction
+-   14.2 Linear Regression
+-   14.3 The Method of Least Squares
+
 
 <!---
 minstrel1149/minstrel1149 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
